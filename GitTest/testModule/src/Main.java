@@ -3,6 +3,6 @@ public class Main {
         System.out.println("fist edited!");
         System.out.println("second edited!");
         System.out.println("edited in Github!");
-
+        System.out.println("edited in Idea!");
     }
 }
